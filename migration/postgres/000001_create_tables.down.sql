@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS idempotency_keys;
+DROP TABLE IF EXISTS withdrawals;
+DROP TABLE IF EXISTS balances;
+DROP TABLE IF EXISTS currencies;
+DROP TABLE IF EXISTS users;
